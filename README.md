@@ -4,7 +4,7 @@ An end-to-end supervised learning project that explores customer churn and compa
 
 ## Dataset
 
-The notebook expects `Assignment 1 Dataset.xlsx` in the project root, with a sheet named `Telco_Churn`. The dataset is not included in this repository. Obtain it from the [IBM Telco Customer Churn dataset on Kaggle](https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset) and check its terms before redistribution.
+The notebook expects `Telco_customer_churn.xlsx` in the project root, with a sheet named `Telco_Churn`. The dataset is not included in this repository. Obtain it from the [IBM Telco Customer Churn dataset on Kaggle](https://www.kaggle.com/datasets/yeanzc/telco-customer-churn-ibm-dataset) and check its terms before redistribution.
 
 ## Run the notebook
 
